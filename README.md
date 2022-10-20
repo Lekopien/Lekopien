@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lekopien
 - 👀 I’m interested in making a difference
-- 🌱 I’m currently learning python language
+- 🌱 I’m currently learning at ALX,Software Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +254716873099
 <!---
