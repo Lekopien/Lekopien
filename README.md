@@ -2,7 +2,7 @@
 - 👀 I’m interested in making a difference
 - 🌱 I’m currently learning at ALX,Software Engineering.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +254716873099
+- 📫 How to reach me +254716873099/+254757345407
 - 👀 People call me "Bwana Dev,Aka Dev-MauMau"
 -
 <!---
