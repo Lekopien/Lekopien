@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lekopien
-- 👀 I’m interested in making a difference
-- 🌱 I’m currently learning at ALX,Software Engineering.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +254716873099/+254757345407
+- 👀 I’m interested in making a difference,probably I will be venturing there
+- 🌱 I’m currently learning at Moringa School and ALX Software Engineering.
+- 💞️ I’m looking to collaborate on the production of new models, the creation of shared meaning around the models, and elimintation of error and ambiguity      within the models....
+- 📫 How to reach me +254716873099/+254757345407 or email dlekopien@outlook.com
 - 👀 People call me "Bwana Dev,Aka Dev-MauMau"
 -
 <!---
